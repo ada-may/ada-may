@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 Meet Ada May!
-I’m currently earning a Bachelors in Computer Science from [Gratz College](https://www.gratz.edu/) through [Maalot Online](https://maalot.nevey.org/). Since a young age, I loved to play around with computers and experiment. I am a fast at catching on to new things, and I love to learn!
+I’m currently earning a Bachelors in Computer Science from [Gratz College](https://www.gratz.edu/) through [Maalot Online](https://maalot.nevey.org/). Since a young age, I loved to play around with computers and experiment. I am fast at catching on to new things, and I love to learn!
 
 **Connect with me:**
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/ada-may-4462a1343/)

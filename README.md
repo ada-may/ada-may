@@ -1,11 +1,12 @@
-## Hi there 👋
+## Hi there I am Ada May👋
+
+- 🔭 I’m currently earning a Bachelors in Computer Science from [Gratz College](https://www.gratz.edu/) through [Maalot Online](https://maalot.nevey.org/).
 
 <!--
 **ada-may/ada-may** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
